@@ -1,5 +1,10 @@
 # Frontend Assignment: Dynamic Table with Dropdown Selection
 
+### Initial Screen
+When no Api is Called or Api is called but there is no data received from that api 
+![image](https://github.com/user-attachments/assets/5907209c-bf14-4487-b245-9efe90c8396f)
+
+
 ## 1. Assignment Overview
 
 ### Objective  
