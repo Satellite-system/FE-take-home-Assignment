@@ -4,6 +4,10 @@
 When no Api is Called or Api is called but there is no data received from that api 
 ![image](https://github.com/user-attachments/assets/5907209c-bf14-4487-b245-9efe90c8396f)
 
+### Data Loaded Screen
+After Api is hitted and some data is received from the API
+![image](https://github.com/user-attachments/assets/e9842b41-85d8-4455-840a-787934a78312)
+
 
 ## 1. Assignment Overview
 
